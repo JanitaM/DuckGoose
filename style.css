@@ -1,0 +1,18 @@
+/* Step 3b: Style button */
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#start-btn {
+  background: #B7DA8A;
+  padding: .5rem;
+  margin: 2rem;
+}
+
+/* #view-result {
+  display: block;
+  margin: 2rem;
+  max-width: 80%;
+} */
